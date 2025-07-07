@@ -1,2 +1,2 @@
 # Course-Recommendation-Bot
-Made using watsonx assistant and watsonx ai
+The Course Recommendation Bot is an interactive virtual assistant designed to help users discover learning paths, courses, and certifications tailored to their interests and backgrounds. By combining IBM Watson Assistant’s conversational capabilities with IBM watsonx.ai’s powerful generative models, the bot provides personalized recommendations and guidance in real time. This solution aims to simplify course discovery and empower users to upskill efficiently in areas relevant to their goals.
